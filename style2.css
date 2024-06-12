@@ -1,0 +1,7 @@
+.thankyou{ 
+    background-image: url(raskin.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center; /* Center the background image */
+    height: 100vh; 
+}
